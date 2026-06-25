@@ -1,0 +1,3 @@
+Rahul, 5000 
+ Anjali, 60000 
+ Harry, 55000 
