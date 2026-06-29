@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI.md",
+                "file": "Classification/Classification.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI"
+              "title": "Classification"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "72ec7f2fbedc4611",
   "lastOpenFiles": [
+    "Linear-Regression/Linear regression.md",
+    "Classification/Classification.md",
+    "Classification",
     "attendance.txt",
     "pandu.py",
     "assgnment2.py",
@@ -195,8 +198,6 @@
     "AI.md",
     "file handling.md",
     "marks.txt",
-    "fh1.py",
-    "newfile.txt",
-    "__pycache__/filehandling.cpython-314.pyc"
+    "fh1.py"
   ]
 }
