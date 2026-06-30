@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classification/Classification.md",
+                "file": "Logistic Regression/Logistic Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classification"
+              "title": "Logistic Function"
             }
           }
         ]
@@ -185,8 +185,11 @@
   },
   "active": "72ec7f2fbedc4611",
   "lastOpenFiles": [
-    "Linear-Regression/Linear regression.md",
+    "Logistic Regression/lo reg 1.ipynb",
     "Classification/Classification.md",
+    "Logistic Regression/Logistic Function.md",
+    "Logistic Regression",
+    "Linear-Regression/Linear regression.md",
     "Classification",
     "attendance.txt",
     "pandu.py",
@@ -197,7 +200,6 @@
     "student.py",
     "AI.md",
     "file handling.md",
-    "marks.txt",
-    "fh1.py"
+    "marks.txt"
   ]
 }
