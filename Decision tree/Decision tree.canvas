@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"dc46a9f62faa968f","x":-180,"y":-460,"width":250,"height":60,"type":"text","text":"decision tree for opting internship"},
+		{"id":"7fc13df16e45fb31","x":-128,"y":-280,"width":147,"height":60,"type":"text","text":"    Tech "},
+		{"id":"ec8a3595d15713cb","x":103,"y":-140,"width":117,"height":60,"type":"text","text":"   decision"},
+		{"id":"93428f16ef4e5744","x":-260,"y":-140,"width":110,"height":60,"type":"text","text":" Friends"}
+	],
+	"edges":[
+		{"id":"09c2e8f1d13335cd","fromNode":"7fc13df16e45fb31","fromSide":"bottom","toNode":"93428f16ef4e5744","toSide":"top","label":"yes"},
+		{"id":"f177ccee3eba180f","fromNode":"7fc13df16e45fb31","fromSide":"bottom","toNode":"ec8a3595d15713cb","toSide":"top","label":"no"}
+	]
+}
