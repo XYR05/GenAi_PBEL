@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logistic Regression/Logistic Function.md",
+                "file": "KNN/K-Means Clustering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logistic Function"
+              "title": "K-Means Clustering"
             }
           }
         ]
@@ -185,9 +185,11 @@
   },
   "active": "72ec7f2fbedc4611",
   "lastOpenFiles": [
+    "Logistic Regression/Logistic Function.md",
+    "KNN/K-Means Clustering.md",
+    "KNN",
     "Logistic Regression/lo reg 1.ipynb",
     "Classification/Classification.md",
-    "Logistic Regression/Logistic Function.md",
     "Logistic Regression",
     "Linear-Regression/Linear regression.md",
     "Classification",
@@ -197,9 +199,7 @@
     "salary.txt",
     "asssignment 2.py",
     "num.py",
-    "student.py",
     "AI.md",
-    "file handling.md",
-    "marks.txt"
+    "file handling.md"
   ]
 }
