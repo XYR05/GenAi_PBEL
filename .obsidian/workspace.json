@@ -183,8 +183,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "72ec7f2fbedc4611",
+  "active": "dac2fadbb780f20a",
   "lastOpenFiles": [
+    "K-Means clustring/k-means.ipynb",
+    "K-Means clustring",
     "Random Forest/Regression.ipynb",
     "Random Forest/Random forest.ipynb",
     "Decision tree/Decision Tree.md",
@@ -202,8 +204,6 @@
     "Logistic Regression",
     "Linear-Regression/Linear regression.md",
     "Classification",
-    "attendance.txt",
-    "pandu.py",
     "AI.md",
     "file handling.md"
   ]
