@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random Forest/Random Forest.md",
+                "file": "Generative Ai/Varaible auto encoder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random Forest"
+              "title": "Varaible auto encoder"
             }
           }
         ]
@@ -183,14 +183,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "dac2fadbb780f20a",
+  "active": "72ec7f2fbedc4611",
   "lastOpenFiles": [
+    "Generative Ai/GAN_Algo.ipynb",
+    "Generative Ai/GAN_Algo.py",
+    "Random Forest/Random Forest.md",
+    "Generative Ai/Varaible auto encoder.md",
+    "Generative Ai",
     "K-Means clustring/k-means.ipynb",
     "K-Means clustring",
     "Random Forest/Regression.ipynb",
     "Random Forest/Random forest.ipynb",
     "Decision tree/Decision Tree.md",
-    "Random Forest/Random Forest.md",
     "Random Forest",
     "Decision tree/Decision tree.canvas",
     "Decision tree/decision tree code.ipynb",
@@ -199,11 +203,8 @@
     "KNN/K-Means Clustering.md",
     "Logistic Regression/Logistic Function.md",
     "KNN",
-    "Logistic Regression/lo reg 1.ipynb",
     "Classification/Classification.md",
-    "Logistic Regression",
     "Linear-Regression/Linear regression.md",
-    "Classification",
     "AI.md",
     "file handling.md"
   ]
